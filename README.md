@@ -1,5 +1,5 @@
 # 100daysofC
-I've decided to upload my learning codes for C for engineering course in taking this summer.
+I've decided to upload my learning codes form the C for engineering course i'm taking this summer. (2021)
 
 Hi! Summer 2021 I enrolled into a mechatronics program 
  and was required to take C for engineering. Since I've been writing 

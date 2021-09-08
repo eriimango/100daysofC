@@ -1,4 +1,4 @@
-// 9.10 solve.. this program converts integer Fahrenheit temps from 0 to 212 degrees
+// This program converts integer Fahrenheit temps from 0 to 212 degrees
 // to floating-point Celsius temp w/ 3 digits of precision.
 // author Ericka H.
 #include<stdio.h>

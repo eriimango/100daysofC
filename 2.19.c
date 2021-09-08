@@ -1,6 +1,6 @@
 // 2.19 is a program that prompts user for 3 numbers and produces their, sum, product
 // average, and the smallest and largest of the numbers.
-// author: Ericka Howard
+// author: Ericka H.
 
 #include <stdio.h>
 

@@ -1,5 +1,5 @@
-//This program that will produce the final velocity and distanced transversed of an object.
-//author: Ericka H.
+// This program that will produce the final velocity and distanced transversed of an object.
+// author: Ericka H.
 #include <stdio.h>
 #include <math.h>
 

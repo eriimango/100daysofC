@@ -1,4 +1,4 @@
-// 8.32 this program reads user input date in a specific format and outputs is different format then inputted
+// This program reads user input date in a specific format and outputs is different format then inputted
 // author: Ericka H.
 #include <stdio.h>
 #include <string.h>

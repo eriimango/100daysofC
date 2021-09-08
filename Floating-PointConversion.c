@@ -1,4 +1,5 @@
-// 9.19 reads input with floating-point conversion specifier
+// This program reads input with floating-point conversion specifier
+// by Ericka.H
 #include<stdio.h>
 
 int main(void) {

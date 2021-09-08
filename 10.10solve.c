@@ -1,5 +1,5 @@
 // 10.10 this program displays the use of bitwise shift operators
-// author : Ericka Howard
+// author : Ericka H.
 #include<stdio.h>
 
 void displayBits(unsigned int value); // prototype

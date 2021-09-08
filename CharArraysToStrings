@@ -1,5 +1,5 @@
-// 6.10 duplicate: This program treats character arrays as strings
-// author: Ericka Howard
+// This program treats character arrays as strings
+// author: Ericka H.
 #include <stdio.h>
 #define SIZE 10
 

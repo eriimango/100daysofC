@@ -1,5 +1,5 @@
 // 9.24 solve.. this program shows the difference between %d and %i conversions
-// author Ericka Howard
+// author Ericka H.
 #include<stdio.h>
 
 int main(void) {

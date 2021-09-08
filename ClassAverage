@@ -1,5 +1,5 @@
-// 3.8 Class average program with sentinel-controlled iteration
-// author: Ericka Howard
+// Class average program with sentinel-controlled iteration
+// author: Ericka H.
 #include <stdio.h>
 
 int main(void) {

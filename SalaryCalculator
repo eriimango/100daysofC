@@ -1,5 +1,5 @@
-// 3.20 This salary calculator program will determine the gross pay for each employee inputed
-// author: Ericka Howard
+// This salary calculator program will determine the gross pay for each employee inputed
+// author: Ericka H.
 #include<stdio.h>
 
 int main(void) {

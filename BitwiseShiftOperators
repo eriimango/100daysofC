@@ -1,4 +1,4 @@
-// 10.10 this program displays the use of bitwise shift operators
+// This program displays the use of bitwise shift operators
 // author : Ericka H.
 #include<stdio.h>
 

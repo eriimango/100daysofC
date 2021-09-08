@@ -1,6 +1,6 @@
 // 2.13 this problem test which line from contains variables that were once values that are now replaced
 // the answers are in the comments
-// author: Ericka Howard
+// author: Ericka H.
 
 #include <stdio.h>
 

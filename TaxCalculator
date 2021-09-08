@@ -1,6 +1,6 @@
-// 3.16 This program will demonstrate sales tax by user input monthly tax collections, calculating the tax variations,
+// This program will demonstrate sales tax by user input monthly tax collections, calculating the tax variations,
 // and displaying the result of state and county tax.
-// author: Ericka Howard
+// author: Ericka H.
 #include <stdio.h>
 
 int main(void) {

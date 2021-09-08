@@ -1,5 +1,5 @@
-// 5.15 this program calculates the length of the hypotenuse of a right triangle when the other two sides are given.
-// author: Ericka Howard
+// This program calculates the length of the hypotenuse of a right triangle when the other two sides are given.
+// author: Ericka H.
 #include<stdio.h>
 #include<math.h>
 

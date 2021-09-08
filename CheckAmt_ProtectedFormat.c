@@ -1,4 +1,4 @@
-// 8.33 this program reads user input of a check amount and writes and outputs it into a check-protected format
+// This program reads user input of a check amount and writes and outputs it into a check-protected format
 // author: Ericka H
 #include <stdio.h>
 #include <string.h>

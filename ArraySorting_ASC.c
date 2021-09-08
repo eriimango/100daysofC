@@ -1,4 +1,4 @@
-// 6.15 duplicate: This program demonstrates sorting an array's values into ascending order
+// This program demonstrates sorting an array's values into ascending order
 // author: Ericka H.
 #include <stdio.h>
 #define SIZE 10

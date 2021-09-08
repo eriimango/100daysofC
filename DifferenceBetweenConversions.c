@@ -1,4 +1,4 @@
-// 9.24 solve.. this program shows the difference between %d and %i conversions
+// This program shows the difference between %d and %i conversions
 // author Ericka H.
 #include<stdio.h>
 

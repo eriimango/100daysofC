@@ -1,5 +1,5 @@
 // 2.13 is a program using if statements, relational operators, and equality operators.
-// author: Ericka Howard
+// author: Ericka H.
 
 int main( void )
 {

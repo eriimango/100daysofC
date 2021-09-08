@@ -1,4 +1,4 @@
-// 10.7 this program displays an unsigned int in bits
+// This program displays an unsigned int in bits
 // Ericka H.
 #include <stdio.h>
 

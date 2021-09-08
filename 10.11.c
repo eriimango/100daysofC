@@ -1,6 +1,6 @@
 // 10.11 this program accepts two separate integers from the user (a value and a power) and left shift the calculated input by 1 bit and displays
 // the results.
-// author: Ericka Howard
+// author: Ericka H.
 #include <stdio.h>
 
 void displayResult (unsigned value);

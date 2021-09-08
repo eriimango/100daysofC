@@ -1,5 +1,5 @@
-// 5.25 this program finds the maximum number of 4 user input integers
-// author: Ericka Howard
+// This program finds the maximum number of 4 user input integers
+// author: Ericka H.
 #include<stdio.h>
     float large (float a, float b, float c, float d)
     {

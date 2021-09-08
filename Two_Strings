@@ -1,4 +1,4 @@
-// 7.19 solve .. what does this program do?
+// This program prompts user to enter 2 string(words) inputs and out put the input combined(no space).
 // Ericka H.
 #include <stdio.h>
 #define SIZE 80

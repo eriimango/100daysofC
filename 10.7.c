@@ -1,5 +1,5 @@
 // 10.7 this program displays an unsigned int in bits
-// Ericka Howard
+// Ericka H.
 #include <stdio.h>
 
 void displayBits(unsigned int value); // prototype

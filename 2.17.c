@@ -1,5 +1,5 @@
 //2.17 is a program that will produce the final velocity and distanced transversed of an object.
-//author: Ericka Howard
+//author: Ericka H.
 #include <stdio.h>
 #include <math.h>
 
